@@ -1,0 +1,32 @@
+page-1  
+<ROHMA KITCHEN>   "Happy cooking"   12   yesss!    i love you cooking
+end
+page-2
+<ALMAS>     "Getting new shoes for new start "  13   price?    new arrival
+end
+page-3
+<Stylo>      "WEAR your style "   14    are these online?   what a song
+end
+page-4
+<programming_meme > "WORKING WITH JAVA SCRIPT IS LIKE LOOKING BOTH WAYS BEFORE YOU CROSS THE STREET AND THEN GETTING HIT BY AN AEROPLANE"  44 hahaha   so_truee
+end
+page-5
+<Fast- NU>   "Admission open"   22   
+end
+page-6
+<memeworld>  "pawri ho rahi h"  14 hahahah
+end
+page-7
+<btsfanpage>   "Smooth like butter criminal under cover"  14  yessss     butter premier
+end
+page-8
+<Khaadi>  "Summer sales"      14    is this dress available?     price?   i love it
+end
+page-9
+<Nailart>  "Love you self   buy one get one free "  16    woawwww
+end
+page-10
+<ARY NEWS>   "paper cancel of 10 class"  100   hurrayyy     yeahhhhhhhh
+end
+
+ 

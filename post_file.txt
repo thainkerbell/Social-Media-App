@@ -1,0 +1,25 @@
+z10
+post-z1 "feeling_good"  11  bismah commented: waoo  khansa commented: good
+post-z2 "hurray!_semester_passed"  15  mariam comment:congrats   bismah commented: great
+post-z3 "last_day_at_university"   9    muneeb commented:good_for_you  mariam commented:best_of_luck 
+end
+k10
+post-k1 "TIERD!!"  11   hahahah     
+post-k2 "Good day !"  15  congrats    great  nice
+post-k3 "Excited for new job hurray!!"   9    good_for_you  best_of_luck
+end 
+m10
+post-m1 "Going to university"  11   have_fun     
+post-m2 "Done with the day"  17  more_power_to_you
+post-m3 "Excited for new phone hurray!!"   9    great_buddy   congrats
+end
+b10
+post-b1 "Excited for birthday"  11   ohhhhh   have_a_great_day     
+post-b2 "My life sucks"  45  sameee    ughhhhhhhh
+post-b3 "off to lahore"   9    hahahah    have_fun
+end
+a10
+post-a1 "Done with the exams:)"  11   finallyyyyy        
+post-a2 "of to the zooo!!"  15  great  nice  
+post-a3 "I`m a zoo animal"   9  i_konw  yeah_you_are  hahahah
+end

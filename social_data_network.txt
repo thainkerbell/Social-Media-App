@@ -1,0 +1,6 @@
+zainab          1111       z10        
+khansa          2222       k10      
+muneeb          3333       m10       
+bismah          4444       b10       
+mariam          5555       a10  
+asad		1234	ak10
